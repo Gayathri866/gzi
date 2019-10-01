@@ -19803,12 +19803,11 @@ screen and (min-width: 56.25em) {
 	font-size: 0.875rem;
 	line-height: 0.875rem;
 	position: absolute;
-	bottom: 50px;
+	bottom: 70px;
 	left: 0;
 	margin-left: 20px;
 	z-index: 1;
 	font-weight: 600;
-	width: 90px;
 	text-align: right
 }
 
