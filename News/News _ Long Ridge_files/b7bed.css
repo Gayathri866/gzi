@@ -26056,7 +26056,7 @@ select {
 	font-weight: 600
 }
 
-/* select:focus {
+select:focus {
 	border: 0px solid #8a8a8a;
 	border-bottom: 3px solid #D1D3D8;
 	-webkit-box-shadow: 0 0 0px #cacaca;
@@ -26316,4 +26316,4 @@ body.page-template-template-home .gform_wrapper .gform_footer .gform_button {
 
 html.msie .home-aspot #scene_01_line {
 	height: 100%
-} */
+}
