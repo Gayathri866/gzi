@@ -24,7 +24,7 @@ body {
 }
 
 
-.customCard{
+.customCard1{
 	left: 50%;
 	transform: translateX(-50%);
 	position: absolute;
@@ -8266,7 +8266,7 @@ screen and (min-width: 64em) {
 	padding-left: 3rem
 }
 
-.card {
+.card1{
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
@@ -26045,10 +26045,10 @@ select {
 	border: 0;
 	border-bottom: 3px solid #D1D3D8;
 	color: #2D3B51;
-	outline: none;
+	/* outline: none;
 	background-position: 105% 11px;
 	background-image: none;
-	background-size: 5% auto;
+	background-size: 5% auto; */
 	padding-left: 0;
 	margin: 0;
 	color: #D1D3D8;
@@ -26056,7 +26056,7 @@ select {
 	font-weight: 600
 }
 
-select:focus {
+/* select:focus {
 	border: 0px solid #8a8a8a;
 	border-bottom: 3px solid #D1D3D8;
 	-webkit-box-shadow: 0 0 0px #cacaca;
@@ -26316,4 +26316,4 @@ body.page-template-template-home .gform_wrapper .gform_footer .gform_button {
 
 html.msie .home-aspot #scene_01_line {
 	height: 100%
-}
+} */

@@ -22904,7 +22904,7 @@ body.single-portfolio_companies .site-footer {
 
 .about-overview {
 	padding-top: 100px;
-	padding-bottom: 700px;
+	/* padding-bottom: 700px; */
 	background-color: #EFF2FB;
 	position: relative
 }
@@ -23131,7 +23131,7 @@ body.single-portfolio_companies .site-footer {
 	z-index: 2;
 	position: relative;
 	padding-top: 220px;
-	padding-bottom: 15px
+	/* padding-bottom: 15px */
 }
 
 @media screen and (max-width: 63.9375em) {
