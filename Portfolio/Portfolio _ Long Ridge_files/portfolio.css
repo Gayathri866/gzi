@@ -19735,7 +19735,7 @@ body.page-template-default .header-color-box {
 	padding: 0 20px !important
 }
 
-body.page-template-template-our-team .aspot-filter .filter-container .grid-filter-container:after {
+/* body.page-template-template-our-team .aspot-filter .filter-container .grid-filter-container:after {
 	content: ""
 }
 
@@ -19808,7 +19808,7 @@ screen and (min-width: 56.25em) {
 	transform: rotate(90deg);
 	color: #F2B31F;
 	pointer-events: none
-}
+} */
 
 .section-heading {
 	color: #626A7B;
