@@ -13499,7 +13499,7 @@ screen and (min-width: 64em) {
 	transform: translateX(-100%)
 }
 
-.fade-in.mui-enter {
+. ttt-in.mui-enter {
 	-webkit-transition-duration: 500ms;
 	-o-transition-duration: 500ms;
 	transition-duration: 500ms;
@@ -13512,11 +13512,11 @@ screen and (min-width: 64em) {
 	transition-property: opacity
 }
 
-.fade-in.mui-enter.mui-enter-active {
+. ttt-in.mui-enter.mui-enter-active {
 	opacity: 1
 }
 
-.fade-out.mui-leave {
+. ttt-out.mui-leave {
 	-webkit-transition-duration: 500ms;
 	-o-transition-duration: 500ms;
 	transition-duration: 500ms;
@@ -13529,7 +13529,7 @@ screen and (min-width: 64em) {
 	transition-property: opacity
 }
 
-.fade-out.mui-leave.mui-leave-active {
+. ttt-out.mui-leave.mui-leave-active {
 	opacity: 0
 }
 
@@ -15510,7 +15510,7 @@ screen and (min-width: 64em) {
 	animation-name: bounceOutUp
 }
 
-@-webkit-keyframes fadeIn {
+@-webkit-keyframes  tttIn {
 	from {
 		opacity: 0
 	}
@@ -15519,7 +15519,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeIn {
+@keyframes  tttIn {
 	from {
 		opacity: 0
 	}
@@ -15528,12 +15528,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeIn {
-	-webkit-animation-name: fadeIn;
-	animation-name: fadeIn
+. tttIn {
+	-webkit-animation-name:  tttIn;
+	animation-name:  tttIn
 }
 
-@-webkit-keyframes fadeInDown {
+@-webkit-keyframes  tttInDown {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(0, -100%, 0);
@@ -15546,7 +15546,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeInDown {
+@keyframes  tttInDown {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(0, -100%, 0);
@@ -15559,12 +15559,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeInDown {
-	-webkit-animation-name: fadeInDown;
-	animation-name: fadeInDown
+. tttInDown {
+	-webkit-animation-name:  tttInDown;
+	animation-name:  tttInDown
 }
 
-@-webkit-keyframes fadeInDownBig {
+@-webkit-keyframes  tttInDownBig {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(0, -2000px, 0);
@@ -15577,7 +15577,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeInDownBig {
+@keyframes  tttInDownBig {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(0, -2000px, 0);
@@ -15590,12 +15590,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeInDownBig {
-	-webkit-animation-name: fadeInDownBig;
-	animation-name: fadeInDownBig
+. tttInDownBig {
+	-webkit-animation-name:  tttInDownBig;
+	animation-name:  tttInDownBig
 }
 
-@-webkit-keyframes fadeInLeft {
+@-webkit-keyframes  tttInLeft {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(-100%, 0, 0);
@@ -15608,7 +15608,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeInLeft {
+@keyframes  tttInLeft {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(-100%, 0, 0);
@@ -15621,12 +15621,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeInLeft {
-	-webkit-animation-name: fadeInLeft;
-	animation-name: fadeInLeft
+. tttInLeft {
+	-webkit-animation-name:  tttInLeft;
+	animation-name:  tttInLeft
 }
 
-@-webkit-keyframes fadeInLeftBig {
+@-webkit-keyframes  tttInLeftBig {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(-2000px, 0, 0);
@@ -15639,7 +15639,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeInLeftBig {
+@keyframes  tttInLeftBig {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(-2000px, 0, 0);
@@ -15652,12 +15652,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeInLeftBig {
-	-webkit-animation-name: fadeInLeftBig;
-	animation-name: fadeInLeftBig
+. tttInLeftBig {
+	-webkit-animation-name:  tttInLeftBig;
+	animation-name:  tttInLeftBig
 }
 
-@-webkit-keyframes fadeInRight {
+@-webkit-keyframes  tttInRight {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(100%, 0, 0);
@@ -15670,7 +15670,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeInRight {
+@keyframes  tttInRight {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(100%, 0, 0);
@@ -15683,12 +15683,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeInRight {
-	-webkit-animation-name: fadeInRight;
-	animation-name: fadeInRight
+. tttInRight {
+	-webkit-animation-name:  tttInRight;
+	animation-name:  tttInRight
 }
 
-@-webkit-keyframes fadeInRightBig {
+@-webkit-keyframes  tttInRightBig {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(2000px, 0, 0);
@@ -15701,7 +15701,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeInRightBig {
+@keyframes  tttInRightBig {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(2000px, 0, 0);
@@ -15714,12 +15714,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeInRightBig {
-	-webkit-animation-name: fadeInRightBig;
-	animation-name: fadeInRightBig
+. tttInRightBig {
+	-webkit-animation-name:  tttInRightBig;
+	animation-name:  tttInRightBig
 }
 
-@-webkit-keyframes fadeInUp {
+@-webkit-keyframes  tttInUp {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(0, 100%, 0);
@@ -15732,7 +15732,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeInUp {
+@keyframes  tttInUp {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(0, 100%, 0);
@@ -15745,12 +15745,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeInUp {
-	-webkit-animation-name: fadeInUp;
-	animation-name: fadeInUp
+. tttInUp {
+	-webkit-animation-name:  tttInUp;
+	animation-name:  tttInUp
 }
 
-@-webkit-keyframes fadeInUpBig {
+@-webkit-keyframes  tttInUpBig {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(0, 2000px, 0);
@@ -15763,7 +15763,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeInUpBig {
+@keyframes  tttInUpBig {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(0, 2000px, 0);
@@ -15776,12 +15776,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeInUpBig {
-	-webkit-animation-name: fadeInUpBig;
-	animation-name: fadeInUpBig
+. tttInUpBig {
+	-webkit-animation-name:  tttInUpBig;
+	animation-name:  tttInUpBig
 }
 
-@-webkit-keyframes fadeOut {
+@-webkit-keyframes  tttOut {
 	from {
 		opacity: 1
 	}
@@ -15790,7 +15790,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeOut {
+@keyframes  tttOut {
 	from {
 		opacity: 1
 	}
@@ -15799,12 +15799,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeOut {
-	-webkit-animation-name: fadeOut;
-	animation-name: fadeOut
+. tttOut {
+	-webkit-animation-name:  tttOut;
+	animation-name:  tttOut
 }
 
-@-webkit-keyframes fadeOutDown {
+@-webkit-keyframes  tttOutDown {
 	from {
 		opacity: 1
 	}
@@ -15815,7 +15815,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeOutDown {
+@keyframes  tttOutDown {
 	from {
 		opacity: 1
 	}
@@ -15826,12 +15826,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeOutDown {
-	-webkit-animation-name: fadeOutDown;
-	animation-name: fadeOutDown
+. tttOutDown {
+	-webkit-animation-name:  tttOutDown;
+	animation-name:  tttOutDown
 }
 
-@-webkit-keyframes fadeOutDownBig {
+@-webkit-keyframes  tttOutDownBig {
 	from {
 		opacity: 1
 	}
@@ -15842,7 +15842,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeOutDownBig {
+@keyframes  tttOutDownBig {
 	from {
 		opacity: 1
 	}
@@ -15853,12 +15853,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeOutDownBig {
-	-webkit-animation-name: fadeOutDownBig;
-	animation-name: fadeOutDownBig
+. tttOutDownBig {
+	-webkit-animation-name:  tttOutDownBig;
+	animation-name:  tttOutDownBig
 }
 
-@-webkit-keyframes fadeOutLeft {
+@-webkit-keyframes  tttOutLeft {
 	from {
 		opacity: 1
 	}
@@ -15869,7 +15869,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeOutLeft {
+@keyframes  tttOutLeft {
 	from {
 		opacity: 1
 	}
@@ -15880,12 +15880,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeOutLeft {
-	-webkit-animation-name: fadeOutLeft;
-	animation-name: fadeOutLeft
+. tttOutLeft {
+	-webkit-animation-name:  tttOutLeft;
+	animation-name:  tttOutLeft
 }
 
-@-webkit-keyframes fadeOutLeftBig {
+@-webkit-keyframes  tttOutLeftBig {
 	from {
 		opacity: 1
 	}
@@ -15896,7 +15896,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeOutLeftBig {
+@keyframes  tttOutLeftBig {
 	from {
 		opacity: 1
 	}
@@ -15907,12 +15907,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeOutLeftBig {
-	-webkit-animation-name: fadeOutLeftBig;
-	animation-name: fadeOutLeftBig
+. tttOutLeftBig {
+	-webkit-animation-name:  tttOutLeftBig;
+	animation-name:  tttOutLeftBig
 }
 
-@-webkit-keyframes fadeOutRight {
+@-webkit-keyframes  tttOutRight {
 	from {
 		opacity: 1
 	}
@@ -15923,7 +15923,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeOutRight {
+@keyframes  tttOutRight {
 	from {
 		opacity: 1
 	}
@@ -15934,12 +15934,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeOutRight {
-	-webkit-animation-name: fadeOutRight;
-	animation-name: fadeOutRight
+. tttOutRight {
+	-webkit-animation-name:  tttOutRight;
+	animation-name:  tttOutRight
 }
 
-@-webkit-keyframes fadeOutRightBig {
+@-webkit-keyframes  tttOutRightBig {
 	from {
 		opacity: 1
 	}
@@ -15950,7 +15950,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeOutRightBig {
+@keyframes  tttOutRightBig {
 	from {
 		opacity: 1
 	}
@@ -15961,12 +15961,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeOutRightBig {
-	-webkit-animation-name: fadeOutRightBig;
-	animation-name: fadeOutRightBig
+. tttOutRightBig {
+	-webkit-animation-name:  tttOutRightBig;
+	animation-name:  tttOutRightBig
 }
 
-@-webkit-keyframes fadeOutUp {
+@-webkit-keyframes  tttOutUp {
 	from {
 		opacity: 1
 	}
@@ -15977,7 +15977,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeOutUp {
+@keyframes  tttOutUp {
 	from {
 		opacity: 1
 	}
@@ -15988,12 +15988,12 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeOutUp {
-	-webkit-animation-name: fadeOutUp;
-	animation-name: fadeOutUp
+. tttOutUp {
+	-webkit-animation-name:  tttOutUp;
+	animation-name:  tttOutUp
 }
 
-@-webkit-keyframes fadeOutUpBig {
+@-webkit-keyframes  tttOutUpBig {
 	from {
 		opacity: 1
 	}
@@ -16004,7 +16004,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes fadeOutUpBig {
+@keyframes  tttOutUpBig {
 	from {
 		opacity: 1
 	}
@@ -16015,9 +16015,9 @@ screen and (min-width: 64em) {
 	}
 }
 
-.fadeOutUpBig {
-	-webkit-animation-name: fadeOutUpBig;
-	animation-name: fadeOutUpBig
+. tttOutUpBig {
+	-webkit-animation-name:  tttOutUpBig;
+	animation-name:  tttOutUpBig
 }
 
 @-webkit-keyframes flip {
@@ -18948,18 +18948,18 @@ screen and (min-width: 64em) {
 	bottom: 0
 }
 
-.fade {
+. ttt {
 	opacity: 0 !important;
 	-webkit-transition: all 0.25s ease-out;
 	-o-transition: all 0.25s ease-out;
 	transition: all 0.25s ease-out
 }
 
-.no-js .fade {
+.no-js . ttt {
 	opacity: 1 !important
 }
 
-.fade.in {
+. ttt.in {
 	opacity: 1 !important
 }
 
@@ -19016,26 +19016,26 @@ screen and (min-width: 64em) {
 
 .Spinner-line--1 {
 	border-color: #dcd4c7;
-	-webkit-animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-1-fade-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
-	animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-1-fade-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both
+	-webkit-animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-1- ttt-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
+	animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-1- ttt-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both
 }
 
 .Spinner-line--2 {
 	border-color: #aec0a4;
-	-webkit-animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-2-fade-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
-	animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-2-fade-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both
+	-webkit-animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-2- ttt-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
+	animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-2- ttt-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both
 }
 
 .Spinner-line--3 {
 	border-color: #bfa779;
-	-webkit-animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-3-fade-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
-	animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-3-fade-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both
+	-webkit-animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-3- ttt-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
+	animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-3- ttt-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both
 }
 
 .Spinner-line--4 {
 	border-color: #2e3c40;
-	-webkit-animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-4-fade-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
-	animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-4-fade-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both
+	-webkit-animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-4- ttt-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both;
+	animation: fill-unfill-rotate 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both, line-4- ttt-in-out 4800ms cubic-bezier(0.4, 0, 0.2, 1) infinite both
 }
 
 .Spinner-line-cog {
@@ -19246,7 +19246,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@-webkit-keyframes line-1-fade-in-out {
+@-webkit-keyframes line-1- ttt-in-out {
 	0% {
 		opacity: 1
 	}
@@ -19267,7 +19267,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes line-1-fade-in-out {
+@keyframes line-1- ttt-in-out {
 	0% {
 		opacity: 1
 	}
@@ -19288,7 +19288,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@-webkit-keyframes line-2-fade-in-out {
+@-webkit-keyframes line-2- ttt-in-out {
 	0% {
 		opacity: 0
 	}
@@ -19306,7 +19306,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes line-2-fade-in-out {
+@keyframes line-2- ttt-in-out {
 	0% {
 		opacity: 0
 	}
@@ -19324,7 +19324,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@-webkit-keyframes line-3-fade-in-out {
+@-webkit-keyframes line-3- ttt-in-out {
 	0% {
 		opacity: 0
 	}
@@ -19342,7 +19342,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes line-3-fade-in-out {
+@keyframes line-3- ttt-in-out {
 	0% {
 		opacity: 0
 	}
@@ -19360,7 +19360,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@-webkit-keyframes line-4-fade-in-out {
+@-webkit-keyframes line-4- ttt-in-out {
 	0% {
 		opacity: 0
 	}
@@ -19378,7 +19378,7 @@ screen and (min-width: 64em) {
 	}
 }
 
-@keyframes line-4-fade-in-out {
+@keyframes line-4- ttt-in-out {
 	0% {
 		opacity: 0
 	}
@@ -19735,7 +19735,7 @@ body.page-template-default .header-color-box {
 	padding: 0 20px !important
 }
 
-/* body.page-template-template-our-team .aspot-filter .filter-container .grid-filter-container:after {
+body.page-template-template-our-team .aspot-filter .filter-container .grid-filter-container:after {
 	content: ""
 }
 
@@ -19808,7 +19808,7 @@ screen and (min-width: 56.25em) {
 	transform: rotate(90deg);
 	color: #F2B31F;
 	pointer-events: none
-} */
+}
 
 .section-heading {
 	color: #626A7B;
@@ -20522,7 +20522,7 @@ screen and (min-width: 56.25em) {
 	margin: 0
 }
 
-@-webkit-keyframes fadeInLeft {
+@-webkit-keyframes  tttInLeft {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(10%, 0, 0);
@@ -20535,7 +20535,7 @@ screen and (min-width: 56.25em) {
 	}
 }
 
-@keyframes fadeInLeft {
+@keyframes  tttInLeft {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(10%, 0, 0);
@@ -20548,7 +20548,7 @@ screen and (min-width: 56.25em) {
 	}
 }
 
-@-webkit-keyframes fadeInRight {
+@-webkit-keyframes  tttInRight {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(10%, 0, 0);
@@ -20561,7 +20561,7 @@ screen and (min-width: 56.25em) {
 	}
 }
 
-@keyframes fadeInRight {
+@keyframes  tttInRight {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(10%, 0, 0);
@@ -20574,7 +20574,7 @@ screen and (min-width: 56.25em) {
 	}
 }
 
-@-webkit-keyframes fadeInUp {
+@-webkit-keyframes  tttInUp {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(0, 55%, 0);
@@ -20587,7 +20587,7 @@ screen and (min-width: 56.25em) {
 	}
 }
 
-@keyframes fadeInUp {
+@keyframes  tttInUp {
 	from {
 		opacity: 0;
 		-webkit-transform: translate3d(0, 55%, 0);
@@ -21880,21 +21880,21 @@ body.single-portfolio_companies .site-footer {
 	}
 }
 
-.home-aspot.loaded .fade-mountain-bottom {
+.home-aspot.loaded . ttt-mountain-bottom {
 	-webkit-transform: translate(0, 0);
 	-ms-transform: translate(0, 0);
 	transform: translate(0, 0);
 	opacity: 1
 }
 
-.home-aspot.loaded .fade-mountain {
+.home-aspot.loaded . ttt-mountain {
 	-webkit-transform: translate(0, 0);
 	-ms-transform: translate(0, 0);
 	transform: translate(0, 0);
 	opacity: 1
 }
 
-.home-aspot .fade-mountain-bottom {
+.home-aspot . ttt-mountain-bottom {
 	content: '';
 	position: absolute;
 	bottom: -100vh;
@@ -21920,13 +21920,13 @@ body.single-portfolio_companies .site-footer {
 }
 
 @media screen and (max-width: 74.9375em) {
-	.home-aspot .fade-mountain-bottom {
+	.home-aspot . ttt-mountain-bottom {
 		width: calc(76vw - 80px)
 	}
 }
 
 @media screen and (max-width: 39.9375em) {
-	.home-aspot .fade-mountain-bottom {
+	.home-aspot . ttt-mountain-bottom {
 		width: calc(76vw - 40px);
 		bottom: calc(-100vh - 53px)
 	}
@@ -21945,7 +21945,7 @@ body.single-portfolio_companies .site-footer {
 	overflow: hidden
 }
 
-.home-aspot .fade-mountain {
+.home-aspot . ttt-mountain {
 	position: absolute;
 	bottom: 0vh;
 	right: 0vw;
@@ -21970,13 +21970,13 @@ body.single-portfolio_companies .site-footer {
 }
 
 @media screen and (max-width: 74.9375em) {
-	.home-aspot .fade-mountain {
+	.home-aspot . ttt-mountain {
 		width: calc(76vw - 80px)
 	}
 }
 
 @media screen and (max-width: 39.9375em) {
-	.home-aspot .fade-mountain {
+	.home-aspot . ttt-mountain {
 		width: calc(76vw - 40px);
 		bottom: -53px
 	}
@@ -30284,7 +30284,7 @@ div .gfield_repeater_cell {
 		padding: 40px;
 		max-width: 99%;
 		font-size: 28px;
-		border-top: 2px solid #effade;
+		border-top: 2px solid #ef ttt;
 		border-bottom: 1px solid #a7c37c;
 		text-shadow: #DFB 1px 1px;
 		color: #030;
